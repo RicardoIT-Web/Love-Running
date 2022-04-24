@@ -2,4 +2,4 @@
 
 My first walkthrough project with CI. Great fun!!
 
-Click [Here]() to view deployed sample.
+Click [Here](https://ricardoit-web.github.io/Love-Running/) to view deployed sample.
